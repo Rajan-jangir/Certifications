@@ -1,6 +1,7 @@
 # [COF-C02: SnowPro Core Certification](https://achieve.snowflake.com/dfa66ac8-ed55-48f7-bc2e-a0d6a7feefd4)
 
-![image](https://github.com/user-attachments/assets/aa40de35-af35-4e67-97f6-fc17d608ca99)
+![image](https://github.com/user-attachments/assets/19b28599-2429-4145-ab4b-287d85ea1d49)
+
 
 # [PL-300: Microsoft Power BI Data Analyst Associate](https://learn.microsoft.com/en-us/users/jangirrajan/credentials/9f0f28f8756a9fe)
 
